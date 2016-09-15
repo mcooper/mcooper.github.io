@@ -1,13 +1,8 @@
----
-title: Document Center
----
-
 ##WEST AFRICAN TOPONYM EXPLORER
-**WEDNESDAY, FEBRUARY 11, 2015**
 
 Check out [this Shiny App](https://amadoukone.shinyapps.io/DuguTogo/) that I made.
 
-![<img src='img/DuguTogoApp.png'>](https://amadoukone.shinyapps.io/DuguTogo/)
+![<img src='../img/DuguTogoApp.png'>](https://amadoukone.shinyapps.io/DuguTogo/)
 
 #Why I made it
 After living in a rural village in Mali for over a year, I'm still not sure what ethnic group they are, or what language they speak.  I studied Bambara in the capital, and since I can speak with them, they must speak Bambara, right? Well, they tell me that they speak Jula.  At least, most of them do.  Others tell me that they speak Malinke, or Tabushi (although it all seems to be the same language).  They also tell me that Jula is spoken throughout West Africa - from Sierra Leone to Abidjan to Burkina Faso, and this seems implausible to me.  I've done a lot of looking around to see what academia and the internet have to say about West Africa's languages - how diverse they are, and where they should be found.  But there's not a lot of good information out there.  Anything very descriptive and at region scales is decades old. Most modern stuff focuses on individual case studies and rarely has a spatial component.  What seems to be the best maps come from christian missionary groups like the SIL (who produces the Ethnologue) or the Joshua Project, and are still pretty unsatisfying be academic standards.  In short, the information I can find about ethno-linguistic groups in West Africa, by searching the internet and academic sources, is unclear, missing, or contradictory.
