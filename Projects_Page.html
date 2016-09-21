@@ -1,51 +1,56 @@
 <!DOCTYPE HTML>
 <html>
-
-<div id="banner"></div>
-
-    <body>
-        <img id="banner" src="img/Escheresque.jpg" alt="Banner Image"/>
-        <title>There's Always More to Learn</title>
-        <center>
-        <h1>Projects</h1>
+<head>
+<img id="banner" src="img/Escheresque.jpg" alt="Banner Image"/>
+</head>
+        <title>Data Projects</title>
+        <div class=middle>
+        <h1>Data Projects</h1>
 		<h3>
-		<br>
-		<a href="">West African Toponym Explorer</a>
-		<br>
-		<a href="">Minority Languages of the Philippines on Twitter</a>
-		<br>
-		<a href="">Country names in Academic Papers</a>
-		<br>
-		</p>
-		<a href="index.html">Home</a>
+		<br><br>
+		<a href="west-african-toponyms.html">West African Toponym Explorer</a>
+		<br><br>
+		<a href="philippines-twitter.html">Minority Languages of the Philippines on Twitter</a>
+		<br><br>
+		<a href="google-scholar-results.html">Most and Least Studied Countries on Earth</a>
+		<br><br>
+		<a href="where-to-fill-up.html">Where to Fill Up on you USA Road Trip</a>
+		<br><br>
+		<a href="third-first-world.html">Where the Third World Meets the First</a>
+		<br><br>
+		<a href="">Work at aWhere</a>
+		<br><br>
+		<a href="">Twitter Language Diversity Index</a>
+		<br><br>
+		<a href="gallery-old-maps.html">Random Map Gallery</a>		
 		</h3>
-		</center>
-
-    </body>
-
+		</div>
+<hr>
+<div class=onthebottom>
+<a href="index.html">Home</a> / <a href="Projects_Page.html">Data</a> / <a href="http://www.theresalwaysmoretolearn.blogspot.com">Travels</a> / <a href="About_Me.html">About Me</a> / <a href="http://www.github.com/mcooper">GitHub</a> / <a href="docs/Matt Cooper CV.docx">CV</a>
+</div>
 <style>
 
-h1 {
-	position: absolute;
-	top: 20%;
-	min-height: 275px;
-	text-align: left;
-	margin-left:15%
+.content_img{
+	max-width: 100%;
+	height: auto;
+	width: 646px;
 }
 
-h3 {
-	position: absolute;
-	top: 30%;
-	min-height: 300px;
-	margin-bottom: 30%;
-	margin-left: 15%;
-	margin-right: 50px;
-	text-align: left;
-	font-size: 18px;
+.middle {
+	margin-bottom: 50px;
+	margin-left: 20%;
+	margin-right: 20%;
+	max-width: 600px;
+	margin-top: 10%;
+}
+
+.onthebottom {
+	margin-bottom: 10px;
+	text-align: center;
 }
 
 #banner {
-	position: absolute;
 	top: 7px;
 	left: 0px;
 	right: 0px;
@@ -55,15 +60,33 @@ h3 {
 	z-index: -1;
 }
 
-/* unvisited link */
-a:link {
-    color: lightblue;
-    text-decoration: none;
-    transition: border .5s;
+* {
+ font-family: Helvetica;
 }
 
+/* unvisited link */
+a:link {
+    color: #0066ff;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #0066ff;
+    text-decoration: none;
+}
+
+/* mouse over link */
 a:hover {
-    border-bottom: 2px dotted #000;
+    color: #0099ff;
+    text-decoration: none;
+}
+
+hr {
+    margin-top: 5em;
+    margin-bottom: 2em;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 </style>
