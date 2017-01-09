@@ -16,7 +16,7 @@
 		<br><br>
 		I believe that recently a new solution has emerged to these problems in mapping languages and dialects.  In the past few years, geotagged social media have become widely available, offering massive and readily available data sets for mapping everything from linguistic trends to sports fan domains to preferences for church vs beer.  Maps made from such large, geotagged, linguistic corpora show real occurrences of linguistic phenomena, rather than just perceptual linguistic boundaries.  Additionally, because such data is available in point form, it makes it much easier to display overlapping languages and linguistic continua.  So, I decided to take a crack a this, and mapped the languages of the Philippines using tweet data:
 		<br><br>
-		<img class=main_img src="img/TweetsMap_MinorityBig.png">
+		<a href="img/TweetsMap_MinorityBig.png"><img class=content_img src="img/TweetsMap_MinorityBig.png"></a>
 		<br><br>
 		<h3>Methods</h3>
 		<h5>Collecting Tweets</h5>
@@ -28,20 +28,21 @@
 		<br><br>
 		However, this method fails miserably for Austronesian languages, and exclusive word lists must be used.  This is because Austronesian languages have relatively small phonemic inventories (Hawaiian only has eight consonants!) and almost all have a simple, Consonant-Vowel syllable structure.  Thus there is not enough variability in possible n-grams, and languages cannot be classified based on n-gram distributions.  Google translate uses the n-gram method, and when I use it for Tagalog, it frequently thinks that the text I am entering is in Indonesian or Cebuano.  A more relevant example of this is in other attempts to map work languages.  Two high-res language maps of twitter exist here and here. Outside of the Philippines, they are fantastic (just look at Europe), but I am assuming that they use the n-gram method, because they both mis-identify Tagalog (and other Filipino languages) as Indonesian:
 		<br><br>
-		<img class=sub_img src="img/BadMap1.png">
-		<img class=sub_img src="img/BadMap2.png">		<br><br>
+		<a href="img/BadMap1.png"><img class=content_img src="img/BadMap1.png"></a>
+		<a href="img/BadMap2.png"><img class=content_img src="img/BadMap2.png"></a>
+		<br><br>
 		<h3>Analysis<h3>
 		<h5>Comparison to Other Maps</h5>
-		<img class=sub_img src="img/TweetsMap_MinorityBig.png">
-		<img class=sub_img src="img/Philippine_languages_per_region.png">
+		<a href="img/TweetsMap_MinorityBig.png"><img class=content_img src="img/TweetsMap_MinorityBig.png"></a>
+		<a href="img/Philippine_languages_per_region.png"><img class=content_img src="img/Philippine_languages_per_region.png"></a>
 		<br><br>
 		So here is my final map placed next to a map of the languages of the Philippines from Wikipedia.  The map from Wikipedia does a  good job of quickly showing where one might find minority languages, but it does a bad job of showing location precisely, specifically with regard to density.  It also does a pretty bad job of showing where languages overlap.  It is clear in the tweet map, for example, that while the minority languages are confined to certain regions, English and Tagalog are prevalent throughout the country.  This is unclear in Wikipedia's map, which makes it appear as if Tagalog is just one of many minority languages, when in fact it is far more prevalent.  The tweet map also does a much better job of displaying language density.  Ilocano, for example, is most common on the northeast coast of Luzon, is much less common in north-central Luzon (because of the many small languages spoken in the mountains) and is also uncommon on the northwest coast of Luzon (because the whole area is sparsely populated).  This is clear in the tweet map, where most of the Ilocano tweets are on the northeast coast and only scattered tweets appear on other regions, whereas the Wikipedia maps makes the Ilocano area appear uniform.  The Wikipedia map does add the diamond indicating that a language is only a plurality - but it does not indicate which other languages are present or where a given language is concentrated, like the dot map does.
 		<h5>English vs Tagalog</h5>
-		<img class=main_img src="img/EnglishTagalogTaglishWithMeanCenter.png">
+		<a href="img/EnglishTagalogTaglishWithMeanCenter.png"><img class=content_img src="img/EnglishTagalogTaglishWithMeanCenter.png"></a>
 		<br><br>
 		Clearly, English is widely used throughout the Philippines, as is Tagalog.  However, it appears that that Tagalog and Taglish (code-switching between English and Tagalog in one tweet) are more common in the North, the homeland of the Tagalog language.  I was told by many Filipinos that southerners, who speak mostly Cebuano, resent the fact that Tagalog became the national language, since Cebuano was spoken by more people over a wider area.  For this reason, Cebuanos use less Tagalog and more English.  This map seems to confirm that, and taking the median point for Tagalog, English and Taglish shows a trend of Tagalog being more common in the north and English being more common in the south.  Nevertheless, English was much more common than Tagalog, with 80,000 English tweets, 28,000 Tagalog tweets and 16,000 tweets with at least 3 words in Tagalog and 3 words in English.
 		<h5>Minority Langauges</h5>
-		<img class=main_img src="img/Minority Languages.png">
+		<a href="img/Minority Languages.png"><img class=content_img src="img/Minority Languages.png"></a>
 		<br><br>
 		Here is a map of the minority language tweets.  As I discuss later, there were issues with language identification for these minority tweets, so their relative totals are probably not indicative of how prevalent they actually are on twitter, much less in everyday, spoken usage.  Nevertheless, I think this map does a great job of displaying their geographic distributions.  Hiligaynon (also called Ilonggo) is accurately shown as occurring on both Panay Island and Negros in the central islands (called the Visayas), as well as in the east of the southern island of Mindanao.  Cebuano was also accurately identified across its full range, despite the fact that is has many different varieties, indicating that the corpus drew on a good variety of texts.  This was not true for Bikol, which also has many varieties.  Because the corpus from Wikipedia was based on Central Bikol, also called Naga Bikol, both of the Bikol tweets identified were found near Naga, and not in the larger city of Albay, which speaks a slightly different variety.  
 		<br><br>
