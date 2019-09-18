@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mariano Gonzalez-Roglich | Matthew Cooper</title>
+    <link>https://mcooper.github.io/authors/mariano-gonzalez-roglich/</link>
+      <atom:link href="https://mcooper.github.io/authors/mariano-gonzalez-roglich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mariano Gonzalez-Roglich</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mcooper.github.io/img/icon-192.png</url>
+      <title>Mariano Gonzalez-Roglich</title>
+      <link>https://mcooper.github.io/authors/mariano-gonzalez-roglich/</link>
+    </image>
+    
+    <item>
+      <title>Geographic factors predict wild food and nonfood NTFP collection by households across four African countries</title>
+      <link>https://mcooper.github.io/publication/vs/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://mcooper.github.io/publication/vs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Matthew Cooper</title>
+    <link>https://mcooper.github.io/project/</link>
+      <atom:link href="https://mcooper.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mcooper.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://mcooper.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Testing the Safety Net Hypothesis</title>
+      <link>https://mcooper.github.io/project/lc-malnutrition/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcooper.github.io/project/lc-malnutrition/</guid>
+      <description>&lt;p&gt;Supported by Conservation Interational, I am working with geolocated nutrition data combined with data on local climate conditions and land cover to determine if natural areas can provide nutritional resilience to climate shocks, as well as in which areas conservation interventions could to the most to support local food security.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text Mining the Food Security Literature</title>
+      <link>https://mcooper.github.io/project/mine-food-security/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcooper.github.io/project/mine-food-security/</guid>
+      <description>&lt;p&gt;In collaboration with Molly Brown and Meredith T Niles, I have worked on a project text mining 16000 abstracts related to Food Security to better understand where the literature focuses and how different themes have changed in the literature.  Initial results suggest that the literature is highly biased toward certain countries, and that there is no relationship between the focus of the food security literature and where actual food insecurity exists.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate Shocks and Intimate-Partner Violence</title>
+      <link>https://mcooper.github.io/project/ipv/</link>
+      <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcooper.github.io/project/ipv/</guid>
+      <description>&lt;p&gt;In collaboration with International Food Policy Research Institute, I am working with data from 44 developing countries to see if women are more likely to experience violence during climate shocks.  Initial results suggest that drought is strongly associated with rates of intimate-partner violence.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text Data and Climate Shocks</title>
+      <link>https://mcooper.github.io/project/sesync/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcooper.github.io/project/sesync/</guid>
+      <description>&lt;p&gt;Supported by the National Socio-Ecological Synthesis Center (SESYNC), I am working with a team of graduate students to analyse text data captured before, during and after a climate shock to better understand how these shocks affect people&amp;rsquo;s mental health and attitudes towards climate change.  We are using datasets like Twitter and traditional news media, and analysis techniques like Sentiment Analysis and Topic Modeling.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scenarios of Child Mortality</title>
+      <link>https://mcooper.github.io/project/mortality/</link>
+      <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcooper.github.io/project/mortality/</guid>
+      <description>&lt;p&gt;To be presented at AGU 2019:&lt;/p&gt;
+
+&lt;p&gt;Over the previous few decades, globally rising levels of wealth, maternal education, and sanitation have led to an unprecedented reduction in child mortality, particularly in middle-income countries.  However, in some parts of the world, mortality rates remain stubbornly high.  Furthermore, rising temperatures and increasingly extreme precipitation caused by climate change will affect crop production, food security, sanitation infrastructure, and disease vectors, ultimately increased risk of future child mortality in vulnerable areas.  Given these twin processes – increasing levels of development as well as an increasingly extreme climate - great uncertainties remain about potential futures for global child mortality.&lt;/p&gt;
+
+&lt;p&gt;To better understand how the risk of child mortality varies with extremes in climate, we draw on a vast dataset of 6.5 million children from 59 developing countries, with each child matched to local climatic, economic, and social variables over the course of their lives.  We find that various indicators of development are associated with lower mortality risk, while climate extremes are associated with higher mortality risk.  We further find that the types of climate extremes most associated with mortality are strongly dependant on the duration of the shock, with both short-term rainfall excesses and long-term rainfall deficits associated with a greater risk of mortality.&lt;/p&gt;
+
+&lt;p&gt;Finally, to assess how future trajectories of development, demographic change, and climate change could affect child mortality risk, we draw on five different scenarios of the future from Shared Socioeconomic Pathways (SSPs) coupled with bias-corrected climate models from the Inter-Sectoral Impact Model Intercomparison Project (ISIMIP).  We fit a model based on our historic dataset of child mortality and use it to predict potential future rates based on these scenarios.  We show what the various scenarios could mean for child mortality outcomes and highlight the regions of the world potentially most vulnerable to climate shocks.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

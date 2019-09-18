@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Alele | Matthew Cooper</title>
+    <link>https://mcooper.github.io/authors/peter-alele/</link>
+      <atom:link href="https://mcooper.github.io/authors/peter-alele/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Alele</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mcooper.github.io/img/icon-192.png</url>
+      <title>Peter Alele</title>
+      <link>https://mcooper.github.io/authors/peter-alele/</link>
+    </image>
+    
+    <item>
+      <title>Geographic factors predict wild food and nonfood NTFP collection by households across four African countries</title>
+      <link>https://mcooper.github.io/publication/vs/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://mcooper.github.io/publication/vs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

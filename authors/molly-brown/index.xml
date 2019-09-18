@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molly Brown | Matthew Cooper</title>
+    <link>https://mcooper.github.io/authors/molly-brown/</link>
+      <atom:link href="https://mcooper.github.io/authors/molly-brown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Molly Brown</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mcooper.github.io/img/icon-192.png</url>
+      <title>Molly Brown</title>
+      <link>https://mcooper.github.io/authors/molly-brown/</link>
+    </image>
+    
+    <item>
+      <title>Mapping the Effects of Drought on Child Stunting</title>
+      <link>https://mcooper.github.io/publication/spei-malnutrition/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcooper.github.io/publication/spei-malnutrition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hunger, nutrition, and precipitation: evidence from Ghana and Bangladesh</title>
+      <link>https://mcooper.github.io/publication/ftf/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcooper.github.io/publication/ftf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
