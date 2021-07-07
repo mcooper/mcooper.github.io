@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Matthew Cooper</title>
+    <link>https://mcooper.github.io/publication-type/2/</link>
+      <atom:link href="https://mcooper.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Matthew Cooper</copyright><lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mcooper.github.io/media/icon_hu85ad27c13d36f34a82e54f7acaa48f90_2715_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://mcooper.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Fine-scale Data Reveals Neighborhood Inequalities In Effects of Heat on Expressed Mood</title>
+      <link>https://mcooper.github.io/publication/temp-sentiment/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://mcooper.github.io/publication/temp-sentiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Mining the Food Security Literature</title>
+      <link>https://mcooper.github.io/publication/mine-food-security/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://mcooper.github.io/publication/mine-food-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the Effects of Drought on Child Stunting</title>
+      <link>https://mcooper.github.io/publication/spei-malnutrition/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcooper.github.io/publication/spei-malnutrition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing a global indicator for Aichi Target 1 by merging online data sources to measure biodiversity awareness and engagement</title>
+      <link>https://mcooper.github.io/publication/aichi1/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://mcooper.github.io/publication/aichi1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

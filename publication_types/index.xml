@@ -5,20 +5,12 @@
     <link>https://mcooper.github.io/publication_types/</link>
       <atom:link href="https://mcooper.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Matthew Cooper</copyright><lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mcooper.github.io/img/icon-192.png</url>
+      <url>https://mcooper.github.io/media/icon_hu85ad27c13d36f34a82e54f7acaa48f90_2715_512x512_fill_lanczos_center_2.png</url>
       <title>Publication_types</title>
       <link>https://mcooper.github.io/publication_types/</link>
     </image>
-    
-    <item>
-      <title>2</title>
-      <link>https://mcooper.github.io/publication_types/2/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://mcooper.github.io/publication_types/2/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
